@@ -36,3 +36,22 @@ You will use Tableau to visually explore the data further.
 ***
 # Results
 We are encouraged to use Python, Tableau and SQL: 
+
+![Logo](https://github.com/ocaoimh/fifa_project_RJC/blob/main/resources/logo.png)
+
+
+
+### [PROJECT 2  FIFA project for Week 6 of the data bootcamp] (https://github.com/ricardobravo98/fifa_project_RJC-Ricardo/blob/main/README.md)
+For this project, we had the challenge of working with a dataset from the FIFA 19 football game. We used  [a dataset from this project brief](https://github.com/ironhack-edu/data_mid_bootcamp_project_FIFA_MoneyBall/blob/master/project_details.md). 
+
+### Approach
+We decided to create a fictional data analytics consulting firm, the Data Dribblers, who specialise in the football (or soccer) industry. 
+
+The problem that we investigated was that clubs are are not getting a Return On their Investment when buying players. Clubs use a variety of features to choose the players but, lack a data-based approach to choose players who are the best value for money.
+
+Our hypothesis was that we could identify under-valued players by creating a ranking model using performance attributes.
+
+### Methodology
+Using our database as a snapshot of player performance, we developed a model that predicts market value based on objective performance measures and compared it with their actual market value. In this way we can generate lists of undervalued players that are high performers.
+
+![methodo](https://github.com/ocaoimh/fifa_project_RJC/blob/main/resources/methodo.png)

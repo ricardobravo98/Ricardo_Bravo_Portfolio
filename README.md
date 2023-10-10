@@ -53,9 +53,11 @@ Our hypothesis was that we could identify under-valued players by creating a ran
 ### Methodology
 Using our database as a snapshot of player performance, we developed a model that predicts market value based on objective performance measures and compared it with their actual market value. In this way we can generate lists of undervalued players that are high performers.
 
+![methodo](https://github.com/ocaoimh/fifa_project_RJC/blob/main/resources/methodo.png)
+
 ***
 
-![methodo](https://github.com/ocaoimh/fifa_project_RJC/blob/main/resources/methodo.png)
+
 
 ### [PROJECT 3 THE MATCH PREDICTOR - RICARDO BRAVO](https://github.com/ricardobravo98/Final-Project-Tennis/tree/main)
 This is my final Project of the Data Analysis Bootcamp at Ironhack where I am using **Statistics** about each player in the Top 500 to determine who will win a **head to head match**

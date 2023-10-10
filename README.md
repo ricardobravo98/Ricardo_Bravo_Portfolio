@@ -41,7 +41,7 @@ We are encouraged to use Python, Tableau and SQL:
 
 
 
-### [PROJECT 2  FIFA project for Week 6 of the data bootcamp] (https://github.com/ricardobravo98/fifa_project_RJC-Ricardo/blob/main/README.md)
+### [PROJECT 2  FIFA project for Week 6 of the data bootcamp](https://github.com/ricardobravo98/fifa_project_RJC-Ricardo/blob/main/README.md)
 For this project, we had the challenge of working with a dataset from the FIFA 19 football game. We used  [a dataset from this project brief](https://github.com/ironhack-edu/data_mid_bootcamp_project_FIFA_MoneyBall/blob/master/project_details.md). 
 
 ### Approach

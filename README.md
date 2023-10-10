@@ -56,12 +56,11 @@ Using our database as a snapshot of player performance, we developed a model tha
 
 ![methodo](https://github.com/ocaoimh/fifa_project_RJC/blob/main/resources/methodo.png)
 
-# THE EPIC MATCH PREDICTOR - RICARDO BRAVO
+### [PROJECT 3 THE MATCH PREDICTOR - RICARDO BRAVO](https://github.com/ricardobravo98/Final-Project-Tennis/tree/main)
 This is my final Project of the Data Analysis Bootcamp at Ironhack where I am using **Statistics** about each player in the Top 500 to determine who will win a **head to head match**
 
+### ![ATP_Tour_logo svg](https://github.com/ricardobravo98/Final-Project-Tennis/assets/123763158/71651fdf-93e6-4ea5-b731-ad0f87ca87de)
 
-### ![ATP_Tour_logo svg]
-### [Project 3](https://github.com/ricardobravo98/Final-Project-Tennis/assets/123763158/71651fdf-93e6-4ea5-b731-ad0f87ca87de)
 
 
 **Canva Presentation**:https://www.canva.com/design/DAFpqtA7zsg/3M_0Q-65LLObk-iVmXvC-w/edit

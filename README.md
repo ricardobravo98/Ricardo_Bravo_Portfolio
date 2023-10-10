@@ -1,10 +1,9 @@
 # Ricardo_Bravo_Portfolio
 This is my portfolio of projects I have worked on as a Data Scientist
 
-Project 1: 
 
-[# Midbootcamp project of Data Analysis Bootcamp](https://github.com/ricardobravo98/Mid-project-tapas-Ricardo/tree/main)
-### Tapas group: Ricardo, Carlos and Nara
+### [PROJECT 1 Midbootcamp project of Real Estate](https://github.com/ricardobravo98/Mid-project-tapas-Ricardo/tree/main)
+
 ![image](https://user-images.githubusercontent.com/115892160/236526852-3f35ee94-5edc-4f4a-9fb6-24b27f308ec3.png)
 
 Here are the main results of our midbootcamp project, which consists of **the implementation of a regression model**.

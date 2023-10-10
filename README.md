@@ -88,9 +88,15 @@ Hope you are ready to make some money
 ### Statistics notebooks and other relevant knowledge
 
 **Random Forest**: https://github.com/ricardobravo98/lab-random-forests-Ricardo/tree/master/files_for_lab
+
 **Handling Data Imbalance**: https://github.com/ricardobravo98/lab-handling-data-imbalance-classification-Ricardo
+
 **Inferential Statistics**: https://github.com/ricardobravo98/lab-inferential-statistics-Ricardo
+
 **Cross Validation**: https://github.com/ricardobravo98/lab-cross-validation-Ricardo
+
 **Unsupervised Learning**: https://github.com/ricardobravo98/lab-unsupervised-learning-intro-Ricardo
+
 **T-test P values**: https://github.com/ricardobravo98/lab-t-tests-p-values-Ricardo
+
 **Web Scraping**: https://github.com/ricardobravo98/lab-web-scraping-single-page-Ricardo

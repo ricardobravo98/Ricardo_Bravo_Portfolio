@@ -1,5 +1,5 @@
 # Ricardo_Bravo_Portfolio
-This is my portfolio of projects I have worked on as a Data Scientist
+This is my portfolio of projects I have worked on as a Data Scientist. Click on the blue links to go to the actual repository of the individual projects
 
 
 ### [PROJECT 1 Midbootcamp project of Real Estate](https://github.com/ricardobravo98/Mid-project-tapas-Ricardo/tree/main)

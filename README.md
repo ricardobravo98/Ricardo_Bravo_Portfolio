@@ -37,9 +37,8 @@ You will use Tableau to visually explore the data further.
 # Results
 We are encouraged to use Python, Tableau and SQL: 
 
+***
 ![Logo](https://github.com/ocaoimh/fifa_project_RJC/blob/main/resources/logo.png)
-
-
 
 ### [PROJECT 2  FIFA project for Week 6 of the data bootcamp](https://github.com/ricardobravo98/fifa_project_RJC-Ricardo/blob/main/README.md)
 For this project, we had the challenge of working with a dataset from the FIFA 19 football game. We used  [a dataset from this project brief](https://github.com/ironhack-edu/data_mid_bootcamp_project_FIFA_MoneyBall/blob/master/project_details.md). 
@@ -53,6 +52,8 @@ Our hypothesis was that we could identify under-valued players by creating a ran
 
 ### Methodology
 Using our database as a snapshot of player performance, we developed a model that predicts market value based on objective performance measures and compared it with their actual market value. In this way we can generate lists of undervalued players that are high performers.
+
+***
 
 ![methodo](https://github.com/ocaoimh/fifa_project_RJC/blob/main/resources/methodo.png)
 
@@ -78,4 +79,8 @@ This is my final Project of the Data Analysis Bootcamp at Ironhack where I am us
 **Streamlit**: The code is available to actually run the Streamlit App as I showed in the presentation. The code also has the model inside.
 
 Hope you are ready to make some money
+
+***
+
+### Statistics notebooks and other relevant knowledge
 

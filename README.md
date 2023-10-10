@@ -3,7 +3,7 @@ This is my portfolio of projects I have worked on as a Data Scientist
 
 Project 1: 
 
-# Midbootcamp project of Data Analysis Bootcamp
+[# Midbootcamp project of Data Analysis Bootcamp](https://github.com/ricardobravo98/Mid-project-tapas-Ricardo/tree/main)
 ### Tapas group: Ricardo, Carlos and Nara
 ![image](https://user-images.githubusercontent.com/115892160/236526852-3f35ee94-5edc-4f4a-9fb6-24b27f308ec3.png)
 

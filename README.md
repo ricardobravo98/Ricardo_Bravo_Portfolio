@@ -53,7 +53,7 @@ Our hypothesis was that we could identify under-valued players by creating a ran
 ### Methodology
 Using our database as a snapshot of player performance, we developed a model that predicts market value based on objective performance measures and compared it with their actual market value. In this way we can generate lists of undervalued players that are high performers.
 
-![methodo]([https://github.com/ocaoimh/fifa_project_RJC/blob/main/resources/methodo.png](https://github.com/ocaoimh/fifa_project_RJC/blob/main/resources/methodo.png?raw=true))
+![methodo](https://github.com/ocaoimh/fifa_project_RJC/blob/main/resources/methodo.png?raw=true)
 
 ***
 

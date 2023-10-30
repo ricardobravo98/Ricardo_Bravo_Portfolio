@@ -1,14 +1,6 @@
 # Ricardo_Bravo_Portfolio
 This is my portfolio of projects I have worked on as a Data Scientist. Click on the blue links to go to the actual repository of the individual projects
 
-## Data Science Projects at Hipoo:
-
-https://www.canva.com/design/DAFyciKV1Q4/gtJy8c3C7TmPkTFQGH9jhA/edit?utm_content=DAFyciKV1Q4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-## Data Science Projects at Seedtag:
-
-https://www.canva.com/design/DAFydy13aIA/dO-14oaOd5s-Bm71xlOoKQ/edit?utm_content=DAFydy13aIA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
 
 ### [Midbootcamp project Real Estate](https://github.com/ricardobravo98/Mid-project-tapas-Ricardo/tree/main)
 
@@ -44,6 +36,16 @@ You will use Tableau to visually explore the data further.
 ***
 # Results
 We are encouraged to use Python, Tableau and SQL: 
+
+***
+
+## Presentation Data Science Projects at Hipoo:
+
+https://www.canva.com/design/DAFyciKV1Q4/gtJy8c3C7TmPkTFQGH9jhA/edit?utm_content=DAFyciKV1Q4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Presentation Data Science Projects at Seedtag:
+
+https://www.canva.com/design/DAFydy13aIA/dO-14oaOd5s-Bm71xlOoKQ/edit?utm_content=DAFydy13aIA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ***
 ![Logo](https://github.com/ocaoimh/fifa_project_RJC/blob/main/resources/logo.png?raw=true)

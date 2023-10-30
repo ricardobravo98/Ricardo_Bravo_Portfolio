@@ -41,6 +41,8 @@ You will use Tableau to visually explore the data further.
 https://www.canva.com/design/DAFyciKV1Q4/gtJy8c3C7TmPkTFQGH9jhA/edit?utm_content=DAFyciKV1Q4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Presentation Data Science Projects at Seedtag:
+![image](https://github.com/ricardobravo98/Ricardo_Bravo_Portfolio/assets/123763158/1d10561a-e78b-4853-bbb3-8f178a41b323)
+
 
 https://www.canva.com/design/DAFydy13aIA/dO-14oaOd5s-Bm71xlOoKQ/edit?utm_content=DAFydy13aIA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 

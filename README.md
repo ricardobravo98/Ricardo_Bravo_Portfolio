@@ -1,8 +1,16 @@
 # Ricardo_Bravo_Portfolio
 This is my portfolio of projects I have worked on as a Data Scientist. Click on the blue links to go to the actual repository of the individual projects
 
+## Data Science Projects at Hipoo:
 
-### [PROJECT 1 Midbootcamp project of Real Estate](https://github.com/ricardobravo98/Mid-project-tapas-Ricardo/tree/main)
+https://www.canva.com/design/DAFyciKV1Q4/gtJy8c3C7TmPkTFQGH9jhA/edit?utm_content=DAFyciKV1Q4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Data Science Projects at Seedtag:
+
+https://www.canva.com/design/DAFydy13aIA/dO-14oaOd5s-Bm71xlOoKQ/edit?utm_content=DAFydy13aIA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+### [Midbootcamp project Real Estate](https://github.com/ricardobravo98/Mid-project-tapas-Ricardo/tree/main)
 
 ![image](https://user-images.githubusercontent.com/115892160/236526852-3f35ee94-5edc-4f4a-9fb6-24b27f308ec3.png)
 
@@ -40,7 +48,7 @@ We are encouraged to use Python, Tableau and SQL:
 ***
 ![Logo](https://github.com/ocaoimh/fifa_project_RJC/blob/main/resources/logo.png?raw=true)
 
-### [PROJECT 2  FIFA project for Week 6 of the data bootcamp](https://github.com/ricardobravo98/fifa_project_RJC-Ricardo/blob/main/README.md)
+### [FIFA project(https://github.com/ricardobravo98/fifa_project_RJC-Ricardo/blob/main/README.md)
 For this project, we had the challenge of working with a dataset from the FIFA 19 football game. We used  [a dataset from this project brief](https://github.com/ironhack-edu/data_mid_bootcamp_project_FIFA_MoneyBall/blob/master/project_details.md). 
 
 ### Approach
@@ -59,7 +67,7 @@ Using our database as a snapshot of player performance, we developed a model tha
 
 
 
-### [PROJECT 3 THE MATCH PREDICTOR - RICARDO BRAVO](https://github.com/ricardobravo98/Final-Project-Tennis/tree/main)
+### [THE MATCH PREDICTOR - RICARDO BRAVO](https://github.com/ricardobravo98/Final-Project-Tennis/tree/main)
 This is my final Project of the Data Analysis Bootcamp at Ironhack where I am using **Statistics** about each player in the Top 500 to determine who will win a **head to head match**
 
 ### ![ATP_Tour_logo svg](https://github.com/ricardobravo98/Final-Project-Tennis/assets/123763158/71651fdf-93e6-4ea5-b731-ad0f87ca87de)

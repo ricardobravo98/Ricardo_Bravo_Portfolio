@@ -50,7 +50,7 @@ https://www.canva.com/design/DAFyciKV1Q4/gtJy8c3C7TmPkTFQGH9jhA/edit?utm_content
 https://www.canva.com/design/DAFydy13aIA/dO-14oaOd5s-Bm71xlOoKQ/edit?utm_content=DAFydy13aIA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ***
-### [FIFA project(https://github.com/ricardobravo98/fifa_project_RJC-Ricardo/blob/main/README.md)
+### [FIFA project](https://github.com/ricardobravo98/fifa_project_RJC-Ricardo/blob/main/README.md)
 
 ![Logo](https://github.com/ocaoimh/fifa_project_RJC/blob/main/resources/logo.png?raw=true)
 

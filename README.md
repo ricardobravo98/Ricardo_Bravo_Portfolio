@@ -50,9 +50,10 @@ https://www.canva.com/design/DAFyciKV1Q4/gtJy8c3C7TmPkTFQGH9jhA/edit?utm_content
 https://www.canva.com/design/DAFydy13aIA/dO-14oaOd5s-Bm71xlOoKQ/edit?utm_content=DAFydy13aIA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ***
+### [FIFA project(https://github.com/ricardobravo98/fifa_project_RJC-Ricardo/blob/main/README.md)
+
 ![Logo](https://github.com/ocaoimh/fifa_project_RJC/blob/main/resources/logo.png?raw=true)
 
-### [FIFA project(https://github.com/ricardobravo98/fifa_project_RJC-Ricardo/blob/main/README.md)
 For this project, we had the challenge of working with a dataset from the FIFA 19 football game. We used  [a dataset from this project brief](https://github.com/ironhack-edu/data_mid_bootcamp_project_FIFA_MoneyBall/blob/master/project_details.md). 
 
 ### Approach

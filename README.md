@@ -33,9 +33,6 @@ Use different models to compare the accuracies and find the model that best fits
 **3. Visualize**
 You will use Tableau to visually explore the data further.
 
-***
-# Results
-We are encouraged to use Python, Tableau and SQL: 
 
 ***
 

@@ -37,6 +37,8 @@ You will use Tableau to visually explore the data further.
 ***
 
 ## Presentation Data Science Projects at Hipoo:
+![image](https://github.com/ricardobravo98/Ricardo_Bravo_Portfolio/assets/123763158/5328a96e-5faf-4efd-8c99-98a76e237d16)
+
 
 https://www.canva.com/design/DAFyciKV1Q4/gtJy8c3C7TmPkTFQGH9jhA/edit?utm_content=DAFyciKV1Q4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
